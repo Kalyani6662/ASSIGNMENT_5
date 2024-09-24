@@ -85,3 +85,13 @@ db.likes.getIndexes();
 
 // Drop an index on category in articles
 db.articles.dropIndex({ category: 1 });
+ // Find articles published after September 1, 2024, and sort by publish_date in descending order
+db.articles.find(
+    { publish_date: { $gt: ISODate("2024-09-01T00:00:00Z") } }
+).sort({ publish_date: -1 });
+
+// Find users who registered before January 1, 2024, and project only the _id, name, and registration_date fields
+db.users.find(
+    { registration_date: { $lt: ISODate("2024-01-01T00:00:00Z") } },
+    { _id: 1, name: 1, registration_date: 1 }
+);
