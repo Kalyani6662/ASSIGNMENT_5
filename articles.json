@@ -1,0 +1,180 @@
+[{
+    "_id": "article_id_1",
+    "title": "Major Earthquake Hits Central City",
+    "author_id": "user_id_1",
+    "content": "A powerful earthquake struck Central City today, causing widespread damage. Authorities urge residents to stay calm.",
+    "category": "News",
+    "publish_date": "2024-09-01T10:00:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_2",
+    "title": "Breakthrough in Renewable Energy Technology",
+    "author_id": "user_id_2",
+    "content": "Scientists have announced a major breakthrough in renewable energy that could revolutionize the industry.",
+    "category": "Technology",
+    "publish_date": "2024-09-02T08:30:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_3",
+    "title": "Local Community Wins National Award for Innovation",
+    "author_id": "user_id_3",
+    "content": "The local community won a national award for its innovative approach to urban development.",
+    "category": "Local News",
+    "publish_date": "2024-09-03T15:45:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_4",
+    "title": "Stock Markets See Significant Gains",
+    "author_id": "user_id_4",
+    "content": "The stock markets saw significant gains today due to better-than-expected earnings reports.",
+    "category": "Finance",
+    "publish_date": "2024-09-04T12:00:00Z",
+    "status": "draft"
+  },
+  {
+    "_id": "article_id_5",
+    "title": "Health Benefits of a Plant-Based Diet",
+    "author_id": "user_id_5",
+    "content": "Research shows that a plant-based diet has numerous health benefits, including reduced risk of heart disease.",
+    "category": "Health",
+    "publish_date": "2024-09-05T09:15:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_6",
+    "title": "Advancements in AI Technology",
+    "author_id": "user_id_6",
+    "content": "New advancements in AI technology could change the way businesses operate, making processes more efficient.",
+    "category": "Technology",
+    "publish_date": "2024-09-06T11:30:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_7",
+    "title": "Exploring the World’s Best Travel Destinations",
+    "author_id": "user_id_7",
+    "content": "Explore the world’s top travel destinations, including hidden gems that you might not know about.",
+    "category": "Travel",
+    "publish_date": "2024-09-07T14:00:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_8",
+    "title": "Understanding the Impacts of Climate Change",
+    "author_id": "user_id_8",
+    "content": "Climate change continues to have a profound impact on our environment, affecting ecosystems worldwide.",
+    "category": "Environment",
+    "publish_date": "2024-09-08T10:30:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_9",
+    "title": "Top 10 Tips for Personal Finance",
+    "author_id": "user_id_9",
+    "content": "Personal finance tips to help you manage your money better, save more, and invest wisely.",
+    "category": "Finance",
+    "publish_date": "2024-09-09T16:45:00Z",
+    "status": "draft"
+  },
+  {
+    "_id": "article_id_10",
+    "title": "How to Start Your Own Business",
+    "author_id": "user_id_10",
+    "content": "Starting your own business can be challenging, but these steps will guide you through the process.",
+    "category": "Business",
+    "publish_date": "2024-09-10T09:00:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_11",
+    "title": "The Latest in Fashion Trends",
+    "author_id": "user_id_11",
+    "content": "Discover the latest fashion trends that are taking the world by storm this season.",
+    "category": "Lifestyle",
+    "publish_date": "2024-09-11T13:30:00Z",
+    "status": "draft"
+  },
+  {
+    "_id": "article_id_12",
+    "title": "The Future of Electric Vehicles",
+    "author_id": "user_id_12",
+    "content": "Electric vehicles are set to dominate the automotive industry. Learn about the future of EVs.",
+    "category": "Technology",
+    "publish_date": "2024-09-12T17:00:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_13",
+    "title": "Best Practices for a Sustainable Lifestyle",
+    "author_id": "user_id_13",
+    "content": "Adopt sustainable practices in your daily life to reduce your environmental footprint.",
+    "category": "Environment",
+    "publish_date": "2024-09-13T12:15:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_14",
+    "title": "Developing Healthy Habits for Mental Well-Being",
+    "author_id": "user_id_14",
+    "content": "Healthy habits can have a significant impact on mental well-being. Here’s how to get started.",
+    "category": "Health",
+    "publish_date": "2024-09-14T10:45:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_15",
+    "title": "Top Gadgets to Look Out for in 2025",
+    "author_id": "user_id_15",
+    "content": "The most anticipated gadgets of 2025 that are expected to make waves in the tech industry.",
+    "category": "Technology",
+    "publish_date": "2024-09-15T14:30:00Z",
+    "status": "draft"
+  },
+  {
+    "_id": "article_id_16",
+    "title": "The Importance of Sleep for Physical and Mental Health",
+    "author_id": "user_id_16",
+    "content": "Good sleep is essential for maintaining both physical and mental health. Learn the best sleep practices.",
+    "category": "Health",
+    "publish_date": "2024-09-16T07:15:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_17",
+    "title": "Rising Trends in E-Commerce",
+    "author_id": "user_id_17",
+    "content": "E-commerce is continuously evolving. Stay ahead of the trends with these insights.",
+    "category": "Business",
+    "publish_date": "2024-09-17T11:00:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_18",
+    "title": "How to Maintain Work-Life Balance",
+    "author_id": "user_id_18",
+    "content": "In today's fast-paced world, maintaining a healthy work-life balance is crucial. Here are some tips.",
+    "category": "Lifestyle",
+    "publish_date": "2024-09-18T16:30:00Z",
+    "status": "published"
+  },
+  {
+    "_id": "article_id_19",
+    "title": "New Advancements in Medical Technology",
+    "author_id": "user_id_19",
+    "content": "The medical field is advancing rapidly, and new technologies are improving patient care every day.",
+    "category": "Health",
+    "publish_date": "2024-09-19T09:45:00Z",
+    "status": "draft"
+  },
+  {
+    "_id": "article_id_20",
+    "title": "The Role of Artificial Intelligence in Modern Society",
+    "author_id": "user_id_20",
+    "content": "AI continues to shape the future, with advancements influencing various aspects of modern society.",
+    "category": "Technology",
+    "publish_date": "2024-09-20T10:30:00Z",
+    "status": "published"
+  }]

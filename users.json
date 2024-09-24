@@ -1,0 +1,160 @@
+[{
+    "_id": "user_id_2",
+    "name": "Sumiya",
+    "email": "semiya@example.com",
+    "password": "hashedpassword2",
+    "role": "journalist",
+    "join_date": "2024-09-02T00:00:00Z"
+  },
+  {
+    "_id": "user_id_3",
+    "name": "Harsha",
+    "email": "harsha@example.com",
+    "password": "hashedpassword3",
+    "role": "admin",
+    "join_date": "2024-09-03T00:00:00Z"
+  },
+  {
+    "_id": "user_id_4",
+    "name": "Sharanya",
+    "email": "sharanya@example.com",
+    "password": "hashedpassword4",
+    "role": "reader",
+    "join_date": "2024-09-04T00:00:00Z"
+  },
+  {
+    "_id": "user_id_5",
+    "name": "Anu",
+    "email": "anu@example.com",
+    "password": "hashedpassword5",
+    "role": "journalist",
+    "join_date": "2024-09-05T00:00:00Z"
+  },
+  {
+    "_id": "user_id_6",
+    "name": "Kiran Mai",
+    "email": "kiranmai@example.com",
+    "password": "hashedpassword6",
+    "role": "reader",
+    "join_date": "2024-09-06T00:00:00Z"
+  },
+  {
+    "_id": "user_id_7",
+    "name": "Bhavani",
+    "email": "chinni@example.com",
+    "password": "hashedpassword7",
+    "role": "journalist",
+    "join_date": "2024-09-07T00:00:00Z"
+  },
+  {
+    "_id": "user_id_8",
+    "name": "Jagatrayee",
+    "email": "jaggu@example.com",
+    "password": "hashedpassword8",
+    "role": "reader",
+    "join_date": "2024-09-08T00:00:00Z"
+  },
+  {
+    "_id": "user_id_9",
+    "name": "Vamsi",
+    "email": "chinni@example.com",
+    "password": "hashedpassword9",
+    "role": "journalist",
+    "join_date": "2024-09-09T00:00:00Z"
+  },
+  {
+    "_id": "user_id_10",
+    "name": "Hemanth",
+    "email": "emonth@example.com",
+    "password": "hashedpassword10",
+    "role": "reader",
+    "join_date": "2024-09-10T00:00:00Z"
+  },
+  {
+    "_id": "user_id_11",
+    "name": "Gowtham",
+    "email": "gowtham@example.com",
+    "password": "hashedpassword11",
+    "role": "admin",
+    "join_date": "2024-09-11T00:00:00Z"
+  },
+  {
+    "_id": "user_id_12",
+    "name": "Sravan",
+    "email": "sunny@example.com",
+    "password": "hashedpassword12",
+    "role": "journalist",
+    "join_date": "2024-09-12T00:00:00Z"
+  },
+  {
+    "_id": "user_id_13",
+    "name": "Sandeep",
+    "email": "sandy@example.com",
+    "password": "hashedpassword13",
+    "role": "reader",
+    "join_date": "2024-09-13T00:00:00Z"
+  },
+  {
+    "_id": "user_id_14",
+    "name": "Vishnu",
+    "email": "vishnuu@example.com",
+    "password": "hashedpassword14",
+    "role": "journalist",
+    "join_date": "2024-09-14T00:00:00Z"
+  },
+  {
+    "_id": "user_id_15",
+    "name": "Karthik",
+    "email": "karthik@example.com",
+    "password": "hashedpassword15",
+    "role": "reader",
+    "join_date": "2024-09-15T00:00:00Z"
+  },
+  {
+    "_id": "user_id_16",
+    "name": "Bhagya",
+    "email": "bhaggi@example.com",
+    "password": "hashedpassword16",
+    "role": "admin",
+    "join_date": "2024-09-16T00:00:00Z"
+  },
+  {
+    "_id": "user_id_17",
+    "name": "Bindu",
+    "email": "bindu@example.com",
+    "password": "hashedpassword17",
+    "role": "journalist",
+    "join_date": "2024-09-17T00:00:00Z"
+  },
+  {
+    "_id": "user_id_18",
+    "name": "Yashwanth",
+    "email": "yashu@example.com",
+    "password": "hashedpassword18",
+    "role": "reader",
+    "join_date": "2024-09-18T00:00:00Z"
+  },
+  {
+    "_id": "user_id_19",
+    "name": "Hema",
+    "email": "hemaa@example.com",
+    "password": "hashedpassword19",
+    "role": "journalist",
+    "join_date": "2024-09-19T00:00:00Z"
+  },
+  {
+    "_id": "user_id_20",
+    "name": "Sravya",
+    "email": "Sravs@example.com",
+    "password": "hashedpassword20",
+    "role": "reader",
+    "join_date": "2024-09-20T00:00:00Z"
+  },
+  {
+    "_id": "user_id_1",
+    "name": "Kalyani",
+    "email": "kalyanikondapalli0@example.com",
+    "password": "hashedpassword1",
+    "role": "author",
+    "join_date": "2024-09-01T00:00:00Z"
+  }]

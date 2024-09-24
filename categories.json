@@ -1,0 +1,120 @@
+[{
+    "_id": "category_id_1",
+    "name": "World News",
+    "description": "Global events and international news coverage.",
+    "created_at": "2024-09-01T12:00:00Z"
+  },
+  {
+    "_id": "category_id_2",
+    "name": "Technology",
+    "description": "Latest advancements and trends in technology.",
+    "created_at": "2024-09-02T14:20:00Z"
+  },
+  {
+    "_id": "category_id_3",
+    "name": "Health",
+    "description": "Health-related news, research, and wellness tips.",
+    "created_at": "2024-09-03T10:45:00Z"
+  },
+  {
+    "_id": "category_id_4",
+    "name": "Sports",
+    "description": "Updates and analysis on sports events.",
+    "created_at": "2024-09-04T09:30:00Z"
+  },
+  {
+    "_id": "category_id_5",
+    "name": "Business",
+    "description": "Financial news, stock market updates, and economic trends.",
+    "created_at": "2024-09-05T11:15:00Z"
+  },
+  {
+    "_id": "category_id_6",
+    "name": "Entertainment",
+    "description": "Movies, music, and celebrity news.",
+    "created_at": "2024-09-06T16:30:00Z"
+  },
+  {
+    "_id": "category_id_7",
+    "name": "Science",
+    "description": "News from the world of scientific research and discoveries.",
+    "created_at": "2024-09-07T13:20:00Z"
+  },
+  {
+    "_id": "category_id_8",
+    "name": "Politics",
+    "description": "Political news, elections, and governmental affairs.",
+    "created_at": "2024-09-08T12:10:00Z"
+  },
+  {
+    "_id": "category_id_9",
+    "name": "Environment",
+    "description": "Climate change, conservation, and environmental issues.",
+    "created_at": "2024-09-09T14:55:00Z"
+  },
+  {
+    "_id": "category_id_10",
+    "name": "Education",
+    "description": "News about schools, universities, and educational policies.",
+    "created_at": "2024-09-10T17:00:00Z"
+  },
+  {
+    "_id": "category_id_11",
+    "name": "Travel",
+    "description": "Travel news, destination guides, and tourism updates.",
+    "created_at": "2024-09-11T11:35:00Z"
+  },
+  {
+    "_id": "category_id_12",
+    "name": "Culture",
+    "description": "Art, literature, and cultural heritage stories.",
+    "created_at": "2024-09-12T15:10:00Z"
+  },
+  {
+    "_id": "category_id_13",
+    "name": "Fashion",
+    "description": "Fashion news, trends, and runway highlights.",
+    "created_at": "2024-09-13T16:45:00Z"
+  },
+  {
+    "_id": "category_id_14",
+    "name": "Food",
+    "description": "Recipes, culinary news, and food industry updates.",
+    "created_at": "2024-09-14T09:50:00Z"
+  },
+  {
+    "_id": "category_id_15",
+    "name": "Automotive",
+    "description": "Car reviews, industry news, and transportation developments.",
+    "created_at": "2024-09-15T08:30:00Z"
+  },
+  {
+    "_id": "category_id_16",
+    "name": "Real Estate",
+    "description": "Housing market news, property updates, and real estate trends.",
+    "created_at": "2024-09-16T14:25:00Z"
+  },
+  {
+    "_id": "category_id_17",
+    "name": "Lifestyle",
+    "description": "Lifestyle tips, trends, and articles on everyday living.",
+    "created_at": "2024-09-17T18:15:00Z"
+  },
+  {
+    "_id": "category_id_18",
+    "name": "Gaming",
+    "description": "News and reviews on video games and the gaming industry.",
+    "created_at": "2024-09-18T12:00:00Z"
+  },
+  {
+    "_id": "category_id_19",
+    "name": "Music",
+    "description": "News about music, artists, and the music industry.",
+    "created_at": "2024-09-19T10:45:00Z"
+  },
+  {
+    "_id": "category_id_20",
+    "name": "Opinion",
+    "description": "Opinion pieces, editorials, and reader perspectives.",
+    "created_at": "2024-09-20T14:20:00Z"
+  }]
